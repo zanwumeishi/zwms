@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 赞物美食</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on 赞物美食</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 01 Aug 2020 17:18:05 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>赞物美食 内招合伙人开启</title>
+      <link>https://example.org/2020/08/my-first-post/</link>
+      <pubDate>Sat, 01 Aug 2020 17:18:05 +0100</pubDate>
+      
+      <guid>https://example.org/2020/08/my-first-post/</guid>
+      <description>赞物美食zanwumeishi 面向全国限时征招合伙人 无论你现在从事什么工作，以前做什么，只要你相信美食项目的前景，就可以来了解交流。
+微信 zanwu12345
+内招期，福利多多，错过了就真的错过了。</description>
+    </item>
+    
+  </channel>
+</rss>
