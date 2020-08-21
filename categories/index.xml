@@ -6,10 +6,19 @@
     <description>Recent content in Categories on 赞物美食</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 12 Aug 2020 22:54:14 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 23:21:18 +0800</lastBuildDate>
     
 	<atom:link href="https://zanwumeishi.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>代理政策</title>
+      <link>https://zanwumeishi.com/categories/%E4%BB%A3%E7%90%86%E6%94%BF%E7%AD%96/</link>
+      <pubDate>Fri, 21 Aug 2020 23:21:18 +0800</pubDate>
+      
+      <guid>https://zanwumeishi.com/categories/%E4%BB%A3%E7%90%86%E6%94%BF%E7%AD%96/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>赞物美食</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 12 Aug 2020 22:54:14 +0800</pubDate>
       
       <guid>https://zanwumeishi.com/categories/%E8%B5%9E%E7%89%A9%E7%BE%8E%E9%A3%9F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>代理政策</title>
-      <link>https://zanwumeishi.com/categories/%E4%BB%A3%E7%90%86%E6%94%BF%E7%AD%96/</link>
-      <pubDate>Sun, 02 Aug 2020 21:49:20 +0200</pubDate>
-      
-      <guid>https://zanwumeishi.com/categories/%E4%BB%A3%E7%90%86%E6%94%BF%E7%AD%96/</guid>
       <description></description>
     </item>
     
